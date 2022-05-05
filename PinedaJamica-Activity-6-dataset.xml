@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Capital-Budget-deliberate-forum-Survey [
+<!ELEMENT  Capital-Budget-deliberate-forum-Survey (survey)>
+ <!ELEMENT survey (date,neighborhood, meeting_location, work_needed, district, location, coordinate,budget_project, project_description, project_categories, equity,workforce_entrep)>
+
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT neighborhood (#PCDATA)>
+<!ELEMENT meeting_location (#PCDATA)>
+<!ELEMENT work_needed (#PCDATA)>
+<!ELEMENT discrict (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT coordinate (#PCDATA)>
+<!ELEMENT budget_project (#PCDATA)>
+<!ELEMENT project_description (#PCDATA)>
+<!ELEMENT project_categories (#PCDATA)>
+<!ELEMENT equity (#PCDATA)>
+<!ELEMENT workforce_entrep (#PCDATA)>
+
+
+
+<!ATTLIST survey row CDATA #REQUIRED>
+
+
+]>
+
+
+
+<Capital-Budget-deliberate-forum-Survey>
+
+        <survey id = "row 1">
+		<date>April 1</date>
+		<neighborhood>Polish Hill</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Sidewalk Repair</work_needed>
+		<discrict>7</discrict>
+		<location>Breretin 30th</location>
+		<coordinate>40.456589, -79.970152</coordinate>
+		<budget_project>Ramp and Public Sidewalk</budget_project>
+		<project_description>Sidewalk Repair</project_description>
+		<project_categories>Ramp and Public Sidewalk</project_categories>
+		<equity>Important</equity> 
+		<workforce_entrep>Somewhat Important</workforce_entrep>
+	</survey>
+
+	 	<survey  id = "row 2">
+		<date>April 1</date>
+		<neighborhood>Polish Hill</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Rec Center Repairs</work_needed>
+		<discrict>7</discrict>
+		<location>West Penn</location>
+		<coordinate>40.455601, -79.969465</coordinate>
+		<budget_project> Facility Improvemnt - recreation and senior centers facility Improvemnt </budget_project>
+		<project_description>Stair Repair or increased Mobility</project_description>
+		<project_categories>Step Repair and replacement</project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+
+	<survey id = "row 3">
+		<date>August 5</date>
+		<neighborhood>Polish Hill</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>West Penn Remodel (Rec Center)</work_needed>
+		<discrict>7</discrict>
+		<location>West Penn</location>
+		<coordinate>40.455601, -79.969465</coordinate>
+		<budget_project> Facility Improvement and Senior Center</budget_project>
+		<project_description>Rec Center</project_description>
+		<project_categories> Facility Improvement and Senior Center</project_categories>
+		<equity>Important</equity>
+		<workforce_entrep>Somewhat Important</workforce_entrep>
+		
+	</survey>
+
+
+	<survey id = "row 4">
+	    <date>August 5</date>
+		<neighborhood>Polish Hill</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Step Repaired</work_needed>
+		<discrict>7</discrict>
+		<location>Hancock St</location>
+		<coordinate>40.456504, -79.964790</coordinate>
+		<budget_project> Step Repair and Replacement</budget_project>
+		<project_description>City Srep, Repair or Replacement</project_description>
+		<project_categories> Step Repair and Replacement </project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+		<survey id = "row 5">
+	    <date>December 9</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Public Works Project to safety redirect warer runoff; more aggressive (Lead) water replacement</work_needed>
+		<discrict>1</discrict>
+		<location>Brighton Heights</location>
+		<coordinate>40.484170, -80.036205</coordinate>
+		<budget_project> Park Reconstruction</budget_project>
+		<project_description>Infrastructure- incorporative with green infrastructure project and leveraging as workforce development oppurtunity/ Local hiring opportunity</project_description>
+		<project_categories> Park Reconstruction </project_categories>
+		<equity>Important </equity>
+		<workforce_entrep>Important </workforce_entrep>
+	</survey>
+
+</Capital-Budget-deliberate-forum-Survey>
+
