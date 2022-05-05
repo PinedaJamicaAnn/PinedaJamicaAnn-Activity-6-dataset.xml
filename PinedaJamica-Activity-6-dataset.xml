@@ -29,7 +29,7 @@
 <Capital-Budget-deliberate-forum-Survey>
 
         <survey id = "row 1">
-		<date>April 1</date>
+		<date>April 1 2022</date>
 		<neighborhood>Polish Hill</neighborhood>
 		<meeting_location>North Side</meeting_location>
 		<work_needed>Sidewalk Repair</work_needed>
@@ -44,7 +44,7 @@
 	</survey>
 
 	 	<survey  id = "row 2">
-		<date>April 1</date>
+		<date>April 1 2022</date>
 		<neighborhood>Polish Hill</neighborhood>
 		<meeting_location>North Side</meeting_location>
 		<work_needed>Rec Center Repairs</work_needed>
@@ -61,7 +61,7 @@
 
 
 	<survey id = "row 3">
-		<date>August 5</date>
+		<date>August 5 2022</date>
 		<neighborhood>Polish Hill</neighborhood>
 		<meeting_location>North Side</meeting_location>
 		<work_needed>West Penn Remodel (Rec Center)</work_needed>
@@ -78,7 +78,7 @@
 
 
 	<survey id = "row 4">
-	    <date>August 5</date>
+	    <date>August 5 2022</date>
 		<neighborhood>Polish Hill</neighborhood>
 		<meeting_location>North Side</meeting_location>
 		<work_needed>Step Repaired</work_needed>
@@ -94,7 +94,7 @@
 	</survey>
 
 		<survey id = "row 5">
-	    <date>December 9</date>
+	    <date>December 9 2022</date>
 		<neighborhood>Brighton Heights</neighborhood>
 		<meeting_location>North Side</meeting_location>
 		<work_needed>Public Works Project to safety redirect warer runoff; more aggressive (Lead) water replacement</work_needed>
@@ -108,5 +108,86 @@
 		<workforce_entrep>Important </workforce_entrep>
 	</survey>
 
-</Capital-Budget-deliberate-forum-Survey>
 
+	<survey id = "row 6">
+	    <date>December 9 2022</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Pedestrian Bridge at davis ave in brighton heights that improves access to revierview part</work_needed>
+		<discrict>1</discrict>
+		<location>Davis</location>
+		<coordinate>40.481726, -80.026612</coordinate>
+		<budget_project>Bridge upgrades </budget_project>
+		<project_description>Longer operating hours at more community center/senior centers. These are important play spaces and programming spaces.</project_description>
+		<project_categories>Senior Community Program </project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+	<survey id = "row 7">
+	    <date>December 9 2022</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Improve Operation Hours at Community centres and health living centers at Bright healthy living center</work_needed>
+		<discrict>City Wide</discrict>
+		<location>City Wide</location>
+		<coordinate>None </coordinate>
+		<budget_project>Senior Community Program </budget_project>
+		<project_description>Child and families partner with schools district for universal Pre-K. This is the schoold district's responsibility/oppurtunity, but city will benefit</project_description>
+		<project_categories>None</project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+	<survey id = "row 8">
+	    <date>December 9 2022</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Improve Tennis court and ballfield in our parks. Add some lights for evening play</work_needed>
+		<discrict>1</discrict>
+		<location>Nort Side- Reverview</location>
+		<coordinate>40.482320, -80.022459 </coordinate>
+		<budget_project>Facility improvement -Sport Facilities</budget_project>
+		<project_description>Housing- New housing that is publicity subsidized should be majority</project_description>
+		<project_categories>Economic development and housing</project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+	</survey>
+
+			<survey id = "row 9">
+	    <date>December 9 2022</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Improve Tennis court and ballfield in our parks. Add some lights for evening play</work_needed>
+		<discrict>1</discrict>
+		<location>Nort Side-Manchester</location>
+		<coordinate>40.456415, -80.025657</coordinate>
+		<budget_project>Facility improvement -Sport Facilities</budget_project>
+		<project_description>Housing- New housing that is publicity subsidized should be majority</project_description>
+		<project_categories>None</project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+			<survey id = "row 10">
+	    <date>December 9 2022</date>
+		<neighborhood>Brighton Heights</neighborhood>
+		<meeting_location>North Side</meeting_location>
+		<work_needed>Improve Tennis court and ballfield in our parks. Add some lights for evening play</work_needed>
+		<discrict>1</discrict>
+		<location>Nort Side-West Park</location>
+		<coordinate>40.452280, -80.012278</coordinate>
+		<budget_project>Facility improvement -Sport Facilities</budget_project>
+		<project_description>None</project_description>
+		<project_categories>None</project_categories>
+		<equity>None</equity>
+		<workforce_entrep>None</workforce_entrep>
+		
+	</survey>
+
+
+
+</Capital-Budget-deliberate-forum-Survey>
